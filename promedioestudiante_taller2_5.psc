@@ -2,7 +2,7 @@ Algoritmo promedioestudiante_taller2_5
 	definir numeroEstudiantes , i ,j Como Entero
 	definir nota Como Real
 	definir acum ,promedio Como Real
-	mostrar "ingrese numero de estudiantes "
+	mostrar "ingrese numero de personas "
 	leer numeroEstudiantes
 	Para i=1 Hasta numeroEstudiantes Con Paso 1 Hacer
 		acum=0
